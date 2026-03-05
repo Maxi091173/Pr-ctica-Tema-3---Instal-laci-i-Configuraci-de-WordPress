@@ -37,7 +37,7 @@ Finalmente, comprobé que la página funcionara correctamente en distintos dispo
 
 # Explicacion del Portal
 
-![Text alternatiu](Imagen1.png "Títol opcional")
+![Text alternatiu](menu.png "Títol opcional")
 
 *Esta pagina web se centra en las novedades de los componentes gaming y los videojuegos recientes, esta pagina nació con la idea de transmitir todas las novedades a todos los gamers, tanto novatos como veteranos.
 En esta web puedes encontrar novedades en componentes, colaboraciones,  emisiones de juegos o nuevos lanzamientos.*
@@ -45,7 +45,7 @@ En esta web puedes encontrar novedades en componentes, colaboraciones,  emisione
 ## Posts
 *En el apartado de Posts hay varias entradas de diferente topicos*
 
-![Text alternatiu](post1.png "Títol opcional")
+![Text alternatiu](Post1.png "Títol opcional")
 
 ## Buscador y Traductor
 *Implemnté un Buscador y un Traducotr en esta pagina para que sea accessible para todas las personas.*
