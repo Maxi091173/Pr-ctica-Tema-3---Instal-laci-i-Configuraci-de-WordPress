@@ -48,6 +48,10 @@ En esta web puedes encontrar novedades en componentes, colaboraciones,  emisione
 ![Text alternatiu](Post1.png "Títol opcional")
 
 ## Buscador y Traductor
-*Implemnté un Buscador y un Traducotr en esta pagina para que sea accessible para todas las personas.*
+*Implemnté un Buscador y un Traducotr en esta pagina para que sea accessible para todas las personas sin depender de conocer un idioma en especifico.*
 
-![Text alternatiu](tradu.png "Títol opcional")
+**Buscador:**
+![Text alternatiu](Busqueda.png "Títol opcional")
+
+**Traductor:**
+![Text alternatiu](Lenguas.png "Títol opcional")
