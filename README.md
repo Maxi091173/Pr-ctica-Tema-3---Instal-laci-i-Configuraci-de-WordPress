@@ -12,7 +12,7 @@ Posteriormente personalicé el diseño del portal modificando diferentes element
 
 ## Organización del contenido
 
-A continuación, creé varias **categorías** para organizar correctamente. Algunas de estas categorías incluyen:
+A continuación, creé varias **categorías** para organizar correctamente. Las categorías són:
 
 - Posts
 - Alimentacion
