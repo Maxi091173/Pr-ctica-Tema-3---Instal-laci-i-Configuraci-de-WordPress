@@ -16,13 +16,13 @@ A continuación, creé tres **categorías** para organizar correctamente. Las ca
 
 - Componentes electronicos
 - Videojuegos
-- Suplementos (Tienda)
+- Bienvenida
 
-También publiqué varios artículos de prueba añadiendo títulos, textos, imágenes destacadas y etiquetas para simular el funcionamiento real de un portal de noticias.
+También publiqué varios artículos de Componentes electronicos y videojuegos (La categoria de bienvenida solo la utilice para crear un articulo que explicaba en que consistia la pagina web), poniendo: títulos, textos y imágenes, para que pueda ser lo mas facil y rapido de entender.
 
 ## Configuración del sitio
 
-Durante el desarrollo también configuré algunos elementos importantes del sitio web:
+Durante la creación de la pagina también configuré algunos elementos importantes del sitio web:
 
 - El menú principal de navegación  
 - La página de inicio  
@@ -33,7 +33,7 @@ Durante el desarrollo también configuré algunos elementos importantes del siti
 
 Finalmente, comprobé que la página funcionara correctamente en distintos dispositivos, tanto en ordenadores como en móviles y tablets.
 
-[Enlace a pagina](https://gymgoers.page.gd/ "Títol opcional")
+[Enlace a pagina](https://Domini.local/ "Títol opcional")
 
 # Explicacion del Portal
 
