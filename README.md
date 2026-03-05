@@ -1,21 +1,21 @@
 # Practica-Tema-3---Instalalacion-Configuracion-de-WordPress
 
-## Descripción del proyecto
+## 1. Descripción del proyecto
 
-Para realizar este proyecto he desarrollado una página web para para principantes del Gym que se llama **“GymGoers”**, utilizando **WordPress**. El objetivo principal era crear un sitio web funcional donde se puedan publicar, organizar y consultar  cosas relacionadas con el Gym.
+Para realizar este proyecto he desarrollado una página web para gente que quiera enterarse de las novedades en el mundo tanto de la tecnologia como para los videojuegos **“Noticias Gaming”**, utilizando **WordPress**. El objetivo principal era crear un sitio web funcional donde se puedan publicar y consultar cosas relacionadas con Componentes y videojuegos.
 
-## Instalación y configuración
+## 2. Instalación y configuración
 
 En primer lugar, instalé **LAMP** y luego instalé **Wordpress**. Después seleccioné un tema visual adecuado. que permite mostrar la información de forma clara y atractiva.
 
 Posteriormente personalicé el diseño del portal modificando diferentes elementos como el menú de navegación, los colores principales, la estructura de la página de inicio y las distintas secciones de la web para mejorar la experiencia de los usuarios.
 
-## Organización del contenido
+## 3. Organización del contenido
 
-A continuación, creé varias **categorías** para organizar correctamente. Las categorías són:
+A continuación, creé tres **categorías** para organizar correctamente. Las categorías són:
 
-- Posts
-- Alimentacion
+- Componentes electronicos
+- Videojuegos
 - Suplementos (Tienda)
 
 También publiqué varios artículos de prueba añadiendo títulos, textos, imágenes destacadas y etiquetas para simular el funcionamiento real de un portal de noticias.
