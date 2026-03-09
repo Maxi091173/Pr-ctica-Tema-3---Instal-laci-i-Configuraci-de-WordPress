@@ -51,6 +51,7 @@ En esta web puedes encontrar novedades en componentes, colaboraciones,  emisione
 *Implemnté un Buscador y un Traducotr en esta pagina para que sea accessible para todas las personas sin depender de conocer un idioma en especifico.*
 
 **Buscador:**
+
 ![Text alternatiu](Busqueda.png "Títol opcional")
 
 **Traductor:**
